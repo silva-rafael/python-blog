@@ -1,6 +1,6 @@
 # Blog Simples em Django
 
-Bem-vindo ao meu projeto de aprendizado: um blog simples construído utilizando o framework Django. Este projeto foi desenvolvido com o objetivo de explorar conceitos fundamentais de Django e entender como criar, configurar e gerenciar uma aplicação web básica.
+Bem-vindo ao meu projeto de aprendizado: um blog simples construído utilizando o framework Django. Este projeto está sendo desenvolvido com o objetivo de explorar conceitos fundamentais de Django e entender como criar, configurar e gerenciar uma aplicação web básica.
 
 ---
 
