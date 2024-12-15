@@ -11,7 +11,7 @@
         <p>Autor: {{post.author}} </p>
         <p>Atualizado: {{post.updated_ad}}</p>
         <img width="300" src=" {{post.image.url}} " alt=" {{post.title}} " />
-        <p> {{post.body}}</p>
+        <p> {{post.body|safe}}</p>
 
 
     {% endfor %}
